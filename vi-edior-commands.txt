@@ -1,2 +1,5 @@
 to search text
 esc->/text->enter
+
+replace string 
+:%s/search_string/replacement_string/g
